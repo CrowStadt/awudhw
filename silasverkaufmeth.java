@@ -1,5 +1,5 @@
 public class Mensch
-	{
+{
 		//Attribute
 	private	int personalnr = 12324;
 	private	boolean isstbanane = false;
@@ -21,3 +21,4 @@ public class Mensch
 	{
 	personalnr = status;
 	}
+}
